@@ -1,6 +1,6 @@
 # Mescalin Semiconductor Careers
 
-Thanks for checking out this repo. We're working very hard right now, on the various pieces. Our flagship projects are [The Lyra Programming Language](https://github.com/mescalinsemi/lyra-lang) and the [LyraSwap GitNFT Angel Investing Cryptocurrency Exchange](https://lyraswap.com).<br >
+Thanks for checking out this repo. We're working very hard right now, on the various pieces. Our flagship projects are [The Lyra Programming Language](https://github.com/mescalinsemi/lyra-lang) and the [LyraSwap GitNFT Angel Investing Cryptocurrency Exchange](https://lyraswap.com).<br ><br />
 Email board@mescalin.co<br />
 <br/>
 
