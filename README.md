@@ -4,15 +4,15 @@ Thanks for checking out this repo. We're working very hard right now, on the var
 <br/>
 
 ## NextJS-ReactJS Engineer -> TypeScript
-Skills required: See title
+Skills required: See title<br />
 Email board@mescalin.co
 
-## LLVM Compiler Engineer
-Skills required: In-Depth LLVM 15 Knowledge
-Skills preferred: Has seen LLVMLite or can deal with it
+## LLVM Compiler Engineer<br />
+Skills required: In-Depth LLVM 15 Knowledge<br />
+Skills preferred: Has seen LLVMLite or can deal with it<br />
 Email board@mescalin.co
 
 ## Crypto Nerd, Hacker
-Skills required: Strong in Cryptography and Math
-Skills preferred: ECDHE, Curve25519
+Skills required: Strong in Cryptography and Math<br />
+Skills preferred: ECDHE, Curve25519<br />
 Email board@mescalin.co
