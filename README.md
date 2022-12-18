@@ -11,7 +11,7 @@ Skils preferred: Serious NextJS; Authorization, Authentication, Bitfield Encoded
 
 ## LLVM Compiler Engineer<br />
 Skills required: In-Depth LLVM 15 Knowledge<br />
-Skills preferred: Has seen LLVMLite or can deal with it, Knows more than one Programming Language, Understands how to write high-performance code, Which operations in which context of the language or operation system are expensive, and which are not, and how to optimize horribly written high-level code into low-level solutions<br />
+Skills preferred: Has seen LLVMLite or can deal with it, Knows more than one Programming Language, Understands how to write high-performance code, Which operations in which context of the language or operating system are expensive, and which are not, and how to optimize horribly written high-level code into low-level solutions<br />
 
 ## Crypto Nerd, Hacker
 Skills required: Strong in Cryptography and Math<br />
