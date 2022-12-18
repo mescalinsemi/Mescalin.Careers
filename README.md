@@ -23,5 +23,8 @@ Skills required: Persistence in Redis Database, Redis Enterprise<br />
 Skills preferred: Experience in fine implementations using Redis in either Python3 or NodejS/TypeScript (Promise based)
 
 ## Github-/Community Manager
-Skills required: Good, professional, writing; Knowledge of how to use web application platforms for Project-/Company-/Community management
+Skills required: Good, professional, writing; Knowledge of how to use web application platforms for Project-/Company-/Community management<br />
 Skills preferred: Appreciation for the immense value that Github.com provides to Software Engineers with outstanding Design & Reliability
+
+## Drawn Arts and/or Digital Design
+There is no rules or requirements on art, as long as it looks awesome. We need logos for projects, Fonts, Background Patterns, Icons, Illustrations, etc.
