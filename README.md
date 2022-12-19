@@ -14,7 +14,7 @@ Skills required: In-Depth LLVM 15 Knowledge<br />
 Skills preferred: Has seen LLVMLite or can deal with it, Knows more than one Programming Language, Understands how to write high-performance code, Which operations in which context of the language or operating system are expensive, and which are not, and how to optimize horribly written high-level code into low-level solutions<br />
 
 ## Sysadmin
-Skills required: A trained and/or experienced Syadmin with serious Experience
+Skills required: A trained and/or experienced Syadmin with serious Experience<br />
 Skills preferred: Serious, serious experience with either Bare Metal or Clouds
 
 ## Crypto Nerd, Hacker
